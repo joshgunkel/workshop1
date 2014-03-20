@@ -43,14 +43,15 @@ Whew! Glad that’s over. Now, let’s start writing some code!
 More info coming soon! This is where we'll make enhancements to the project, test the changes locally and check the changes into a new branch/fork of the repository. 
 
 
-Our app will serve these pages
+Our app will serve these web pages (with SEO-friendly URLS)
 --------------
 
-- http://localhost:3000/
+- http://localhost:3000/  (home page)
 - http://localhost:3000/register
 - http://localhost:3000/login
+- http://localhost:3000/api-demo
 
-Our API endpoints that we have exposed
+Our app will serve these API endpoints
 --------------
 
 - GET /v1/accounts/ (get all)
@@ -69,6 +70,6 @@ You can access these endpoints from your browser (since they respond to GET requ
 Suggestions for Continued Learning After the Workshop
 --------------
 
-Adding unit tests for the Node.js app is an area of importance. There are many choices for unit testing tools. Mocha seems to be a popular Node module
-AngularJS is becoming a popular framework for client-side development, and supports unit testing (http://angularjs.org/). Follow the tutorial under Learn/Tutorial. 
+- Adding unit tests for the Node.js app is an area of importance. There are many choices for unit testing tools. Mocha seems to be a popular Node module
+- AngularJS is becoming a popular framework for client-side development, and supports unit testing (http://angularjs.org/). Follow the tutorial under Learn/Tutorial. 
 

@@ -3,7 +3,6 @@
 var express = require('express');
 var db = require('./config/database');
 var accounts = require('./routes/accounts');
-var utils = require('./lib/utils');
 
 var app = express();
 
@@ -27,6 +26,9 @@ app.get('/register', function (req, res) {
 });
 app.get('/login', function (req, res) {
     res.sendfile('public/login.html');
+});
+app.get('/api-demo', function (req, res) {
+    res.sendfile('public/accounts-api.html');
 });
 
 //**************************************************************************************
