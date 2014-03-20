@@ -8,7 +8,7 @@
 Agenda
 --------------
 
-In today’s workshop, we’ll use Node.js to build a simple Web app that serves a web page(s), exposes a REST API and persists data to a MongoDB database - all in “the cloud”. For the web pages, we’ll use jQuery to make AJAX calls to our REST API. We’ll create a source code repository at GitHub.com and we’ll use Git to push changes to our source code repository. We’ll also use Git to deploy our app to Heroku, which will make our app publically accessible in “the cloud”. 
+In today’s workshop, we’ll use Node.js to build a simple Web app that serves a web pages, exposes a REST API and persists data to a MongoDB database - all in “the cloud”. For the web pages, we’ll use jQuery to make AJAX calls to our REST API. We’ll create a source code repository at GitHub.com and we’ll use Git to push changes to our source code repository. We’ll also use Git to deploy our app to Heroku, which will make our app publically accessible in “the cloud”. 
 
 Preparation
 --------------
@@ -40,15 +40,15 @@ We’ll use Git to create a local copy of a repository on GitHub. This will prov
 Whew! Glad that’s over. Now, let’s start writing some code!
 --------------
 
-Using any HTML editor (I recommend Sublime Text), open the server.js file
+More info coming soon! This is where we'll make enhancements to the project, test the changes locally and check the changes into a new branch/fork of the repository. 
 
 
 Our app will serve these pages
 --------------
 
-http://localhost:3000/
-http://localhost:3000/register
-http://localhost:3000/login
+- http://localhost:3000/
+- http://localhost:3000/register
+- http://localhost:3000/login
 
 Our API endpoints that we have exposed
 --------------
