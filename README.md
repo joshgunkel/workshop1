@@ -1,5 +1,5 @@
-#Developer Workshop - Using Node.js and MongoDB
-=========
+#Developer Workshop
+##Using Node.js and MongoDB
 ######Presented on March 26, 2014
 ######Hosted by the Hallmark Digital Innovation Lab 
 ######Presented by Dywayne Johnson - Digital Innovation Development Director
