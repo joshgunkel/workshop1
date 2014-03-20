@@ -53,15 +53,16 @@ http://localhost:3000/login
 Our API endpoints that we have exposed
 --------------
 
-GET /v1/accounts/
-POST /v1/accounts/
-PUT /v1/accounts/:id
-DELETE /v1/accounts/:id
+- GET /v1/accounts/ (get all)
+- GET /v1/accounts/:id (get specific)
+- POST /v1/accounts/
+- PUT /v1/accounts/:id
+- DELETE /v1/accounts/:id
 
 You can access these endpoints from your browser (since they respond to GET requests). The PUT and DELETE endpoints must be called from script
 
-http://localhost:3000/v1/accounts
-http://localhost:3000/v1/accounts/{some id here}
+- http://localhost:3000/v1/accounts
+- http://localhost:3000/v1/accounts/{some id here}
 
 
 
