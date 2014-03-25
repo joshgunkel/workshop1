@@ -33,11 +33,12 @@ Setting up our local project workspace
 We’ll use Git to create a local copy of a repository on GitHub. This will provide a fully functional example of the project that will run locally and we can start with and make enhancements to.
 
 - Create a local project directory as our workspace - C:\sites\node.js\
-- Git clone https://github.com/hmkdig/workshop1.git. This will create a new workshop1 folder with the source code.
+- Create a fork of https://github.com/hmkdig/workshop1.git (for more info on forking see: https://help.github.com/articles/fork-a-repo)
+- Git clone https://github.com/your-username/workshop1.git. This will create a new workshop1 folder with the source code.
 - Install Node modules (npm install express, npm install mongoose, npm install moment). Note, this will create a /node_modules directory within your project workspace. Note, these are not included in the repository as they can always be easily reinstalled locally.
 
 
-Whew! Glad that’s over. Now, let’s start writing some code!
+Now, let’s open the source code and writing some of our own code!
 --------------
 
 More info coming soon! This is where we'll make enhancements to the project, test the changes locally and check the changes into a new branch/fork of the repository. 
