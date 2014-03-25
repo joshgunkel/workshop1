@@ -42,6 +42,10 @@ Whew! Glad that’s over. Now, let’s start writing some code!
 
 More info coming soon! This is where we'll make enhancements to the project, test the changes locally and check the changes into a new branch/fork of the repository. 
 
+1. Making changes to our app and testing them locally
+2. Committing our changes to our GitHub repository using Git commands
+3. Deploying our app to Heroku using Git commands
+
 
 Our app will serve these web pages (with SEO-friendly URLS)
 --------------
@@ -70,6 +74,7 @@ You can access these endpoints from your browser (since they respond to GET requ
 Suggestions for Continued Learning After the Workshop
 --------------
 
+- Using a Heroku environment variable for our MongoHQ connection string so that it isn't managed in our code
 - Adding unit tests for the Node.js app is an area of importance. There are many choices for unit testing tools. Mocha seems to be a popular Node module
 - AngularJS is becoming a popular framework for client-side development, and supports unit testing (http://angularjs.org/). Follow the tutorial under Learn/Tutorial. 
 
