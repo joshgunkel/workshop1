@@ -81,4 +81,5 @@ Suggestions for Continued Learning After the Workshop
 - Using a Heroku environment variable for our MongoHQ connection string so that it isn't managed in our code
 - Adding unit tests for the Node.js app is an area of importance. There are many choices for unit testing tools. Mocha seems to be a popular Node module
 - AngularJS is becoming a popular framework for client-side development, and supports unit testing (http://angularjs.org/). Follow the tutorial under Learn/Tutorial. 
+- Try other Node modules (tip: delete your Profile and run "npm init" to recreate it and include new node module references)
 
