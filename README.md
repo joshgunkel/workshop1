@@ -43,7 +43,10 @@ Now, let’s open the source code and writing some of our own code!
 
 More info coming soon! This is where we'll make enhancements to the project, test the changes locally and check the changes into a new branch/fork of the repository. 
 
-1. Making changes to our app and testing them locally
+1. Making changes to our app and testing them locally 
+	- change config/database.js to correct MongoHQ account
+	- change models/models.js to include some new models (AccountLogin, AccountRegister)
+	- change routes/accounts.js to use the new models 
 2. Committing our changes to our GitHub repository using Git commands
 3. Deploying our app to Heroku using Git commands
 
